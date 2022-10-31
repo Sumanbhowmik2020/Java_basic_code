@@ -1,5 +1,13 @@
 /* Left Triangle Star Pattern */
+/*
 
+     *
+    **
+   ***
+  ****
+ *****
+
+    */
 class Lefttrianglepattern
 {
     public static void main(String[] args) {
